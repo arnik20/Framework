@@ -4,12 +4,11 @@ margin:0;
 padding:0;
 }
 html{
-	background-image: url(../image/fon.png); background-repeat:repeat;
+	background: url(http://www.pixeden.com/media/k2/galleries/165/001-subtle-light-pattern-background-texture-vol5.jpg) repeat;
 }
 body 
 { 
 font: .8em Georgia, "Times New Roman", Serif; 
-background-image: url(../image/fon.png); background-repeat:repeat;
 color: #777; 
 }
 
